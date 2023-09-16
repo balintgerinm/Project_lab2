@@ -1,0 +1,31 @@
+Hallgató neve: Bálint Gergő   
+Neptun kódja: O78UXU
+Email címe: balintgerinm@gmail.com
+Konzulens(ek) neve: dr Szűcs Gábor, Kiss Richárd
+Önlab tantárgy kódja: VITMML11
+Tanév/félév:           2023/2024. 1. félév
+
+Feladat/téma címe:
+Gráf neurális hálók kutatása - elmélet és gyakorlat (Graph neural network research - theory and practice)
+
+Tervezett munkafázisok a félév során: (ez csak példa)
+1-4. oktatási hét:
+    - Irodalmazás: Node2Vec, DeepWalk, Gráf neurális hálók
+    - Adathalmaz választás, Adatelőkészítés	
+    - PyTorch Geometric és kapcsolódó csomagok kipróbálása kisméretű adathalmazon
+    - mintatanítás
+
+5-11. oktatási hét: ?
+  (pl. tervezés, de konkrétan: mit) ?
+  (pl. implementálás, de konkrétan: mit és hogyan)) ?
+  (pl. Tesztelés: mit és hogyan) ?
+
+12. oktatási hét:
+    - Írásbeli beszámoló nulladik verzió elkészítése konzulensnek értékelésre beadás
+
+13. oktatási hét:
+    - írásbeli beszámoló végleges, kijavított verziójának beadása, a szóbeli elkészítése
+
+14. oktatási hét:
+    - szóbeli gyakorló előadása tankörtársaknak, a tanulságok levonása
+    - szóbeli kijavítása, szóbeli beszámoló a tárgyfelelősnek
