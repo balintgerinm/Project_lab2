@@ -16,9 +16,13 @@ Tervezett munkafázisok a félév során: (ez csak példa)
     - mintatanítás
 
 5-11. oktatási hét: ?
-  (pl. tervezés, de konkrétan: mit) ?
-  (pl. implementálás, de konkrétan: mit és hogyan)) ?
-  (pl. Tesztelés: mit és hogyan) ?
+    Node2Vec és DeepWalk-kal kapcsolatos vizsgálat hiperparaméter-optimalizálás segítségével:
+    - Választott adathalmaznak megfelelő kiértékelési metrikák kiválasztása 
+	(pl ROC, ROC-AUC, recall, precision, f1, accuracy) és implementálása
+    - Feladatspecifikus hiperparaméterek meghatározása,
+	(p, q, context_size, embedding_dim, rétegek száma, mintavételezett szomszédok száma, dropout, stb. halmazból néhány választása)
+    - Kiválasztott hiperparaméterekkel reprezentáció/modell tanulás, kiválasztott metrikákkal kiértékelés
+    - Vizualizáció alacsony dimenziószám mellett (dimenzióredukció)
 
 12. oktatási hét:
     - Írásbeli beszámoló nulladik verzió elkészítése konzulensnek értékelésre beadás
