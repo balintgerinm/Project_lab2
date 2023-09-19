@@ -8,14 +8,14 @@ Tanév/félév:           2023/2024. 1. félév
 Feladat/téma címe:
 Gráf neurális hálók kutatása - elmélet és gyakorlat (Graph neural network research - theory and practice)
 
-Tervezett munkafázisok a félév során: (ez csak példa)
+Tervezett munkafázisok a félév során:
 1-4. oktatási hét:
     - Irodalmazás: Node2Vec, DeepWalk, Gráf neurális hálók
     - Adathalmaz választás, Adatelőkészítés	
     - PyTorch Geometric és kapcsolódó csomagok kipróbálása kisméretű adathalmazon
     - mintatanítás
 
-5-11. oktatási hét: ?
+5-11. oktatási hét:
     Node2Vec és DeepWalk-kal kapcsolatos vizsgálat hiperparaméter-optimalizálás segítségével:
     - Választott adathalmaznak megfelelő kiértékelési metrikák kiválasztása 
 	(pl ROC, ROC-AUC, recall, precision, f1, accuracy) és implementálása
