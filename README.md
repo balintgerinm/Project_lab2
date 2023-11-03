@@ -11,6 +11,7 @@
 ## Environments
 - [Google Colab](https://colab.research.google.com/)
 - [SageMaker](https://studiolab.sagemaker.aws/)
+- [Wandb.ai project](https://wandb.ai/balintgerinm/project_lab2_node2vec)
 
 ## Instructions
 1. Link prediction - for this you should look at the ROC or Lift curve, or the area under the ROC curve. Here we are looking at how well the graph can be reconstructed from the learned representation.
