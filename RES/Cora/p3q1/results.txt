@@ -1,0 +1,19 @@
+Parameters:
+P= 3
+Q= 1
+Embedding Dimension= 128
+Walk Length= 50
+Context Size= 16
+Walks Per Node= 4
+Learning Rate= 0.01
+Batch Size= 64
+
+Results:
+
+Link Prediction:
+ROC-AUC score= 0.9982999463586215
+
+Node Classification with Logistic Regression:
+F1 Score (Micro)= 0.7822878228782287
+F1 Score (Macro)= 0.7600368314196492
+Accuracy= 0.7822878228782287
